@@ -1,5 +1,7 @@
 # Rate Constant Matrix Contraction Method for Stiff Master Equations with Detailed Balance
-Code for numerical experiments in the paper "Rate Constant Matrix Contraction Method for Stiff Master Equations with Detailed Balance".
+Code for numerical experiments in the paper
+
+> S. Iwata, T. Oki, and S. Sakaue, "Rate constant matrix contraction method for stiff master equations with detailed balance", SIAM Journal on Scientific Computing, to appear.
 
 ## Folder structure
 - `cpp`: C++ code for experiments
